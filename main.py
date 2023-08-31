@@ -13,7 +13,7 @@ plt.ylabel('Tallest Tree')
 
 ## BAR GRAPH ##
 fig = plt.figure()
-plt.bar(xAxis,yAxis, color='maroon')
+plt.bar(xAxis,yAxis, color='blue')
 plt.xlabel('Species of Trees')
 plt.ylabel('Tallest Tree')
 
